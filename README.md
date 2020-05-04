@@ -1,2 +1,2 @@
-# 153-project-blog
-This is a blog about 154 final project
+# 153-project-blog_cvs
+This is a blog and cvs about 153 final project
